@@ -1,2 +1,2 @@
 # N-body-Simulation
-![](name-of-giphy.gif)
+![Alt text](Nbody-Simulation.gif) / ![](Nbody-Simulation.gif)
