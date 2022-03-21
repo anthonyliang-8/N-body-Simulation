@@ -1,2 +1,2 @@
 # N-body-Simulation
-![](N-body Simulation.gif)
+![](N-body_Simulation.gif)
