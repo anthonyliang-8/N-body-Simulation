@@ -9,8 +9,9 @@ each planet updated constantly to achieve the result of the planets orbiting.
 - VcXsrv
 - C++
 
-## Installation (Linux)
-1. First install SFML with the following command
-`sudo apt-get install libsfml-dev`
+## Installation (WSL)
+1. Install SFML with `sudo apt-get install libsfml-dev` for the SFML dependencies.
+2. Install VcXsrv via https://sourceforge.net/projects/vcxsrv/ (not necessary for MacOS or any other unix system)
+3. Follow the rest of this tutorial to display a test sprite. https://www.sfml-dev.org/tutorials/2.5/start-linux.php
 
 ![](N-body_Simulation.gif)
